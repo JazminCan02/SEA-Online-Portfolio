@@ -6,29 +6,127 @@
           (link rel="stylesheet" type="text/css" href="/css/main.css">
   </head>
   <body> 
+     
           <nav>
           <ul>
-                <li><a href="/">Home</a></li>
-                <li><a href="/experience">Experience</a></li>
-                <li><a href="/education">Education</a></li>
-                <li><a href="/extracurricular">Extracurricular</a></li>
+           
+                <li><a href="https://jazmincan02.github.io/SEA-Online-Portfolio//">Home</a></li>                   
+                <li><a href="https://blueceleste02.wixsite.com/jcan/work-experience/">Experience</a></li>
+                <li><a href="https://www.linkedin.com/in/jcan02/">LinkedIn</a></li>
+                <li><a href="https://blueceleste02.wixsite.com/jcan/extracuriular/">Extracurricular</a></li>
+            <li><a href="education">Education</a></li>
           </ul>
           </nav>
+         
+body {
+    margin: 60px auto;
+    width: 70%;
+}
+nav ul, footer ul {
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    padding: 0px;
+    list-style: none;
+    font-weight: bold;
+}
+nav ul li, footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+a {
+    text-decoration: none;
+    color: #999;
+}
+a:hover {
+    text-decoration: underline;
+}
+h1 {
+    font-size: 3em;
+    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+}
+p {
+    font-size: 1.5em;
+    line-height: 1.4em;
+    color: #333;
+}
+footer {
+    border-top: 1px solid #d5d5d5;
+    font-size: .8em;
+}
+
+ul.posts { 
+    margin: 20px auto 40px; 
+    font-size: 1.5em;
+}
+
+ul.posts li {
+    list-style: none;
+}
+
+
+
+
+
+    
+    <style>
+    body {
+      background-color:plum;
+      color:#566573;
+      text-align:left;
+      font-size:26px;
+      font-family:"Anton", vernon adams; 
+      width: 600px;
+    }
+
+  </style>
+    
+    
+    
+   
+</div> 
           <div class="container">
           <div class="introduction">
-                  <h1>Hello, welcome!   My name is Jazmin Can!💡</h1>
-                            <p>I am an incoming college freshmen student at Santa Monica College. I am planning to pursue Mechanical Emgineering for my undergraduate studies. I am a female first-generation college student from a low-income family. <em>
-Biography</em> Graduated from California Academy of Mathematics and Science. <a href="/experience>I have done a summer internship at Boeing Satellite Systems located in El Segundo, CA.</
-a></p>
+                  <h1>Hello, welcome! My name is Jazmin Can!💡</h1>
+                  <p>I am an incoming college freshmen student at Santa Monica College. I am planning to pursue Mechanical Engineering for my undergraduate studies. I am a female first-generation college student from a low-income family.Graduated from California Academy of Mathematics and Science. <em>Graduated from California Academy of Mathematics and Science.</em> I have 
+ done a summer internship at Boeing Satellite Systems located in El Segundo, CA. <a href="/education">Click for more...😊 </a></p>
             </div><!-- /.introduction -->
             </div><!-- /.container -->
             <footer>
             <ul>
-                    <li><a href="mailto:jazmincan18@gmail.com">email</a>
-</li>
-                    <li><a href="https://github.com/JazminCan02/SEA-Online-Portfolio">github.com/
-JazminCan02</a></li>
+                    <li><a href="mailto:jazmincan18@gmail.com">email📧</a></li>
+                    </li>
+  
+  <div id="Skills" class="tabcontent">
+  <h3>Skills</h3>
+  <p>My skills consists of</p> 
+  <ul> 
+           <li>Python</li>
+           <li>HTML/CSS</li>
+           <li>MultiSIM</li>
+            <li>Autodesk Inventor PRO</li>
+           <li>SolidWorks</li>
+           <li>Machining/Manufacturing</li>
+            <li>Soldering</li>
+            <li>Public Speaking/Communications</li>
+           <li>Management</li>
+     </li>
+</ul>
+  
+  
+  
                     </ul>
            </footer>
      </body>
 </html>
+          
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
